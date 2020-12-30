@@ -53,6 +53,7 @@ the best threshold for F1 score was found to be 0.32 with score of 0.66385689591
 the best threshold for F1 score was found to be 0.37 with score of 0.6747581286232235.
 
 Soln 2: Quora_QuestionsInsincereSincereClassification.ipynb:
+
 1).With necessary preprocessing steps, first train a Bidirectional LSTM + GRU  model.
 
 2).Then train a Bidirectional LSTM + GRU model with "Glove Embeddings",
